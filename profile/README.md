@@ -1,6 +1,16 @@
-# EonShift Tech LLC
+<p align="center">
+  <a href="https://eonshift.net">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+      <img alt="EonShift Tech LLC" src="assets/logo-light.png" width="340">
+    </picture>
+  </a>
+</p>
 
-**Managed IT, Cybersecurity & AI for small and midsize businesses.**
+<h1 align="center">EonShift Tech LLC</h1>
+
+<p align="center"><b>Managed IT, Cybersecurity & AI for small and midsize businesses.</b></p>
 
 EonShift keeps your technology running and secure, from help desk and cybersecurity to cloud, networks and AI, so your team can focus on growing the business.
 
